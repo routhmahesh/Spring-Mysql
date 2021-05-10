@@ -1,2 +1,2 @@
 # Spring-Mysql
-Spring Mysql with CRUP operations
+Spring Mysql with CRUD operations
