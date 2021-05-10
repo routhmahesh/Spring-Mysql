@@ -36,7 +36,7 @@ public class Alien {
 	
 	@Override
 	public String toString() {
-		return "Alien1 [name=" + name + ", points=" + points + ", id=" + id + "]";
+		return "Alien [name=" + name + ", points=" + points + ", id=" + id + "]";
 	}
 	
 	
